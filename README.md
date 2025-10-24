@@ -1,13 +1,16 @@
-# ENGG680_2025_fall
+# ENGG680\_2025\_fall
+
 This repository contains materials and assignments for the ENGG680 course in the Fall 2024 semester.
 
 ## Table of Contents
-- [Introduction to Python](#introduction-to-python)
-- [Assignments](#assignments)
+
+* [Introduction to Python](#introduction-to-python)
+* [Assignments](#assignments)
 
 ## Introduction to Python
 
 The following Python notebooks provide examples of programming concepts covered in the course:
+
 1. **Hello World**: The classic "Hello World" program, illustrating the basic structure of a Python script and how to print output to the console.
 2. **String Demo**: Explores string manipulation in Python, covering key concepts such as immutability, indexing, slicing, concatenation, and other string methods.
 3. **List Demo**: Covers fundamental operations on Python lists, including creation, indexing, slicing, and modification. It also demonstrates list methods and explores list concatenation and various techniques for traversing lists using loops.
@@ -23,4 +26,14 @@ The following Python notebooks provide examples of programming concepts covered 
 ## Introduction to Machine Learning
 
 The following Python notebook provides examples of machine learning workflows and concepts covered in the course:
+
 1. **Pipeline Demo**: This Python notebook demonstrates key machine learning workflows, including data preprocessing, model training, and evaluation using classifiers like Random Forest and Logistic Regression, with practical examples of metrics and visualizations.
+
+
+
+\# Contribution
+
+-Gayathri Binukumar Geetha : Added  completed assignment 1 with all solutions (OCT 22, 2025)
+
+-Gayathri Binukumar Geetha: Updated the final notebook structure (Oct 24, 2025)
+
