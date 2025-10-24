@@ -1,3 +1,4 @@
-This is a sample README.md file. Please edit according to the instructions.
-
-Thanks :D
+Bharat Duggal (UCID 30139621)
+Gayathri Binukumar Geetha	(UCID 30264295)
+Divya Bharathi Kuppusamy (UCID 30301607)
+In this ENGG680 lab assignment, our group focused on collaborative coding and analytical problem-solving using Git and Python. We practiced using Git in Google Colab, including configuring Git, committing changes, pushing files, and managing repositories, which gave us hands-on experience in version control and teamwork. We also applied Python to perform the Least Squares Method, using it to analyze data, fit curves, and solve engineering problems. This exercise helped us understand how Python can be used for numerical computation and data-driven modeling. Overall, the lab provided practical experience in collaborative software development and analytical modeling, both essential skills in digital engineering.
